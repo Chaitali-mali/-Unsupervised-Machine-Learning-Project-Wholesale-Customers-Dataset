@@ -51,7 +51,7 @@ pip install -r requirements.txt
 # Run the notebook
 jupyter notebook Wholesale_Customers_Clustering.ipynb
 
-📂 Dataset
+📂 [Download Dataset]("C:\Users\chait\Downloads\Wholesale customers data.csv")
 
 The Wholesale Customers Dataset is available on UCI Machine Learning Repository
 .
@@ -62,6 +62,10 @@ Customers are segmented into clusters based on their purchasing behavior.
 
 Businesses can use these insights to design targeted marketing strategies.
 
-🔗 GitHub Repo
+## Connect with Me
 
-👉 Click Here to View Code
+- 🎥 YouTube: [My Channel](https://www.youtube.com/@chaitalimali8632)
+- 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/chaitalimali/)
+- 💻 GitHub: [My Repositories](https://github.com/Chaitali-mali)
+- 📞 Contact: +91 72629 30914
+- 📧 Email: chaitalimali902@gmail.com

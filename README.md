@@ -41,8 +41,7 @@ Analyze & interpret customer groups
 
 🚀 How to Run
 # Clone this repository
-git clone https://github.com/username/wholesale-customers-unsupervised.git
-
+git clone https://github.com/Chaitali-mali/Unsupervised-Machine-Learning-Project-Wholesale-Customers-Dataset.git
 # Navigate to folder
 cd wholesale-customers-unsupervised
 
